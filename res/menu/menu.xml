@@ -1,0 +1,16 @@
+
+   
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        
+        
+        <item android:id="@string/style_Setting" 
+            
+            android:title="@string/layout_Setting">
+            
+        </item>
+        
+        <item android:id="@string/action_settings" 
+            android:title="@string/layout_Setting"></item>
+        
+        
+    </menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    
+    <PreferenceCategory 
+        android:title="@string/Style_selector">
+        
+        <CheckBoxPreference 
+            android:key="act1"
+            android:title="@string/activity1_altenate"
+            android:summary="@string/activity1_choice"/>
+        
+        
+        <CheckBoxPreference 
+            android:key="act2"
+            android:title="@string/activity2_altenate"
+            android:summary="@string/activity2_choice"/>
+   
+        
+        </PreferenceCategory>
+    
+ 
+ </PreferenceScreen>
